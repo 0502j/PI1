@@ -4,6 +4,8 @@
 
 Grupo 4
 
+
+
 * Para empresas publicarem seus produtos e serviços
 * Para clientes comprarem produtos via delivery e marcarem consultas
 * Para acompanhar status de produtos a serem entregues
