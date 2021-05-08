@@ -1,12 +1,17 @@
-## 🐈​ Projeto Interdisciplinar 1 - FATEC Araras
+## 🐇 Projeto Interdisciplinar 1 - FATEC Araras
 
-##### Aplicativo PET
+### Aplicativo PetCare
 
-Grupo 4
+##### Grupo 4
 
 
 
-* Para empresas publicarem seus produtos e serviços
-* Para clientes comprarem produtos via delivery e marcarem consultas
-* Para acompanhar status de produtos a serem entregues
-* Para empresas serem avaliadas com base nas entregas e serviços.
+* Publicação de produtos e serviços de empresas;
+* Compra de produtos por delivery e agendamento de consultas;
+* Acompanhamnto de status de produtos a serem entregues;
+* Avaliação de empresas com base nas entregas e atendimento.
+<br>
+
+<p align="center">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/71787801/117539333-8f800900-afe0-11eb-88ce-53de21063181.png" data-canonical-    src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png">
+</p>
