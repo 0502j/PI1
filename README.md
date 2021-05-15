@@ -12,6 +12,8 @@
 * Avaliação de empresas com base nas entregas e atendimento.
 <br>
 
+Confira o andamento do projeto: https://bit.ly/3fiD63y
+
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/71787801/117539333-8f800900-afe0-11eb-88ce-53de21063181.png" data-canonical-    src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png">
 </p>
