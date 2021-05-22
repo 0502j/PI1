@@ -12,7 +12,8 @@
 * Avaliação de empresas com base nas entregas e atendimento.
 <br>
 
-Confira o andamento do projeto: https://bit.ly/3fiD63y
+Confira o andamento do projeto: https://bit.ly/3fiD63y 
+
 Protótipo de layout: https://www.figma.com/file/HSrAfpqG8ietU9izJO9Jf3/PetCare?node-id=0%3A1
 
 <p align="center">
