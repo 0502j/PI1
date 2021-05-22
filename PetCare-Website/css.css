@@ -1,0 +1,38 @@
+body{
+    background-color:#6A4C93;
+    font-family: 'Poppins', sans-serif;
+}
+
+.ct-inicio{
+    margin: auto;
+    padding: auto;
+    background-color: white;
+    
+}
+
+
+.titulo-roxo{
+    color: #6A4C93;
+}
+
+/*CARD*/
+
+
+
+#pills-tab{
+    background-color: #CBAEEF;
+    color: black;
+}
+
+.personalize{
+    background-color: #f2eafd;
+}
+/*FIM CARD */
+
+.footer{
+    background-color: #53406d ;
+    color: white;
+    text-align: center;
+    width: 100%;
+    font-size: 1rem;
+}
