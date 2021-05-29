@@ -20,6 +20,7 @@ body{
 
 .titulo-roxo{
     color: #6A4C93;
+    font-size: 7rem; text-align:left;
 }
 
 /*CARD*/
@@ -44,7 +45,14 @@ body{
     font-size: 1rem;
 }
 
+.pills-img{
+  width: 200px; 
+  margin-left: 30%;
+}
 
+.slogan{
+  text-align: left; margin-left:5%;
+}
 
 /*Fundo*/
 
@@ -95,3 +103,146 @@ body{
 
 
 /*Fundo*/
+
+.personalize{
+  width: 80%;
+}
+
+
+
+.github{
+  width: 10%;
+}
+
+.img-equipe{
+  width: 50%;
+}
+
+.card{
+  background-color: transparent;
+  border: none;
+  align-items: center;
+  text-align: center;
+}
+
+
+/*RESPONSIVO*/
+@media only screen and (max-width: 600px) {
+ 
+  p{
+    font-size: 2rem;
+
+  }
+  h1,h2{
+    font-size: 3rem;
+    padding-top:2rem;
+  }
+
+  h3, h4,h5,h6{
+    font-size: 2rem;
+    padding-top:2rem;
+  }
+
+  .titulo-roxo{
+    font-size: 3.0rem; 
+    max-width: fit-content;
+
+  }
+
+  .ct-inicio{
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    background-color: whitesmoke;
+    
+}
+
+
+
+.nav{
+  max-width: 150%;
+}
+
+.tab-pane p{
+ font-size: 0.68rem;
+}
+
+
+.pills-img{
+  max-width: 100%; 
+  margin-left: 0%;
+}
+
+.titulo-usar{
+  font-size: 2rem;
+  padding-top: 2rem;
+}
+h1,h2,h3,h4,h5{
+  text-align: left;
+}
+
+.btn img{
+  max-width: 100%;
+}
+.img-celular{
+  max-width: 100%;
+  padding-top: 2.5rem;
+}
+
+.slogan{
+  text-align: center; margin-left:0%;
+}
+  
+ 
+.github{
+  max-width: 15%;
+}
+
+.img-equipe{
+  max-width: 80%;
+}
+
+.footer{
+  background-color: #53406d ;
+  color: white;
+  text-align: center;
+  max-width: 100%;
+  font-size: 1rem;
+}
+
+.div-margin{
+  margin: 2rem;
+}
+
+.div-margin-2{
+  margin-left: 1.8rem;
+  
+  padding-top: 0rem;
+}
+
+.titulo-fatec{
+  font-size: 1rem;
+}
+
+.bt-instalar{
+  width: 80%;
+  margin-left:1.0rem;
+}
+
+.titulo-equipe{
+  font-size: 1.8rem;
+  text-align: center;
+}
+
+.card-title{
+  font-size: 1.5rem;
+  text-align: center;
+}
+}
+
+
+
+/*RESPONSIVO*/
+
+
+
