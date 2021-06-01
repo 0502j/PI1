@@ -8,7 +8,7 @@
 
 * Publicação de produtos e serviços de empresas;
 * Compra de produtos por delivery e agendamento de consultas;
-* Acompanhamnto de status de produtos a serem entregues;
+* Acompanhamento de status de produtos a serem entregues;
 * Avaliação de empresas com base nas entregas e atendimento.
 <br>
 
