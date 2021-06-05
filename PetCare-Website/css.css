@@ -10,6 +10,15 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+.placeholder{
+  color: transparent;
+  /*Removendo seleção do texto mascarado:*/
+  -webkit-user-select: none; /* Safari */        
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
+}
+
 .ct-inicio{
     margin: auto;
     padding: auto;
@@ -199,7 +208,7 @@ h1,h2,h3,h4,h5{
 }
 
 .img-equipe{
-  max-width: 80%;
+  width: 80%;
 }
 
 .footer{
