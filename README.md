@@ -12,7 +12,6 @@
 * Avaliação de empresas com base nas entregas e atendimento.
 <br>
 
-Andamento do projeto: https://bit.ly/3fiD63y 
 Assista a apresentação: https://www.youtube.com/watch?v=OWRZIh-VWP4
 
 <p align="center">
