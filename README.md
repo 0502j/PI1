@@ -2,10 +2,6 @@
 
 ### Aplicativo PetCare
 
-##### Grupo 4
-
-
-
 * Publicação de produtos e serviços de empresas;
 * Compra de produtos por delivery e agendamento de consultas;
 * Acompanhamento de status de produtos a serem entregues;
